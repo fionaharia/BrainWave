@@ -1,11 +1,11 @@
 # BrainWave is a modern UI/UX website developed using ReactJS and TailwindCSS
 
-## Techstack
+## :computer: Techstack
  - ReactJS
  - Tailwind CSS
  - Vite
 
-## Design Features
+## :high_brightness: Design Features
  - Includes reusable components like the hero, cards, services, roadmaps, pricing sections
  - Latest UI trends which includes components like bento grids
  - Parallax Animations which is triggered by scrolling
